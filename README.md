@@ -12,7 +12,7 @@ To develop the Hospital Management System using Star UML.
 1.Hospital Management System is needed to streamline and automate various hospital operations that are currently handled manually or with fragmented software, leading to inefficiencies and errors.
 
 2.Managing patient records, appointments, billing, and medical histories manually causes delays, data loss, and poor coordination among departments.
-
+ 
 3.Patients face difficulties in booking appointments, accessing their medical reports, and receiving timely notifications for tests or follow-ups.
 
 4.Hospital staff and doctors require a centralized platform to manage patient information, schedule consultations, prescribe medications, and track treatments efficiently.
